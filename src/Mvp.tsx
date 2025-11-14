@@ -1,6 +1,6 @@
 import { RouterProvider } from "react-router-dom";
 import { routes } from "./routes/routes";
-import { ThemeProvider } from "./components/theme-provider";
+import { ThemeProvider } from "./components/ThemeProvider";
 
 const Mvp = () => {
   return (

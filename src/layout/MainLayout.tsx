@@ -1,4 +1,4 @@
-import { ModeToggle } from "@/components/mode-toggle";
+import { ModeToggle } from "@/components/ModeToggle";
 import { Outlet } from "react-router-dom";
 
 const MainLayout = () => {
